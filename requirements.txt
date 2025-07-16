@@ -16,6 +16,6 @@ sentence_transformers
 duckdb
 pandas 
 openai
-
+langchain-experimental
 
     
